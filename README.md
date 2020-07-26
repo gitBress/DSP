@@ -13,6 +13,7 @@ and using some known characteristics of the signal, such as:
 amplitude 𝐴<sub>1</sub> and 𝐴<sub>2</sub>
 - Duration of the signal: 42 s
 
+# Output
 The obtained output file is a cropped piece from "Father and Son" by Cat Stevens. 
 
 **For the detailed description of the project, the report is availabe in pdf format**
